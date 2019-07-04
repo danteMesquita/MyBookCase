@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.android.material:material:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a385c7c217a4d19e6e15aed2aa509fc5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/8863435496f483e0c9f9de4aa1d22e79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/85f3209ba389f04f0e21a431f550f8c8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1837a7fd97b7834305e0f415f09c5f96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/ccc5ff42d14081ff4e2ad515693b8a44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/2bfdf1b5d423399381682a474fbaa294/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a7e8962ac9ac7997d8124bcddce86b2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e940633405491dc4f353f2090372d5ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e6c8a4fd15ac3d8b5c4e794126c46a1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1f65f3fc58611b17c2d15c5df43a41af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20345bf863dfd107d9b7331d69e8a2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/582610bf254a7c9bcb1370cdc6b2e29b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/5ed2f4013ad54461567b5fbd93721ea8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/335be2c8b85cc1be332798a6712717a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e5b77bf1b5f2d14f5bdd73d3da14e36b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/48d2bfd56059f8bfc353879d1dd8ada4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/876b2c3baed3c6f67201d8bbb60285e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20b5228e159dd3d06025eecb29df9c55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/97482a7ecaa2bf34ce3d5a6b56ac352c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a2814f7b9301903a272ce1bdeac0993b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/73e8ce2ac34627c6ae0c66d95693fb21/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/bc655a345fb5c0200042a180e3be9a42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/116bc84c244e2701048a73a2f071bf06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/598593126d30fb3dbb1b03547dc58100/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/57b8ec3eda431071e2c7440d8dd5e38d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/0abb1da8515b613395e9265bd55aed5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/344608b2faf0fb537ff30dd2d62b7508/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/47b3bb8727f5fdb262ee6f7bb8c7c524/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/fc21ff7d066770046fac7084b1dc5be5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/07416ed7f043336844756ee94673b7b1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:5:5-47:19
+MERGED from [com.google.android.material:material:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a385c7c217a4d19e6e15aed2aa509fc5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a385c7c217a4d19e6e15aed2aa509fc5/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/85f3209ba389f04f0e21a431f550f8c8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/85f3209ba389f04f0e21a431f550f8c8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/97482a7ecaa2bf34ce3d5a6b56ac352c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/97482a7ecaa2bf34ce3d5a6b56ac352c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:9:9-47
+	android:icon
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:7:9-42
+	android:allowBackup
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mybookcase.LoginActivity
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:13:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.mybookcase.MainActivity
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:23:13-41
+activity#com.example.mybookcase.RegistrarActivity
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:33:13-46
+activity#com.example.mybookcase.RegisterBookActivity
+ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:42:9-46:20
+	android:label
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml:43:13-49
+uses-sdk
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a385c7c217a4d19e6e15aed2aa509fc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a385c7c217a4d19e6e15aed2aa509fc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/8863435496f483e0c9f9de4aa1d22e79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/8863435496f483e0c9f9de4aa1d22e79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/85f3209ba389f04f0e21a431f550f8c8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/85f3209ba389f04f0e21a431f550f8c8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1837a7fd97b7834305e0f415f09c5f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1837a7fd97b7834305e0f415f09c5f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/ccc5ff42d14081ff4e2ad515693b8a44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/ccc5ff42d14081ff4e2ad515693b8a44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/2bfdf1b5d423399381682a474fbaa294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/2bfdf1b5d423399381682a474fbaa294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a7e8962ac9ac7997d8124bcddce86b2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a7e8962ac9ac7997d8124bcddce86b2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e940633405491dc4f353f2090372d5ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e940633405491dc4f353f2090372d5ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e6c8a4fd15ac3d8b5c4e794126c46a1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e6c8a4fd15ac3d8b5c4e794126c46a1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1f65f3fc58611b17c2d15c5df43a41af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/1f65f3fc58611b17c2d15c5df43a41af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20345bf863dfd107d9b7331d69e8a2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20345bf863dfd107d9b7331d69e8a2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/582610bf254a7c9bcb1370cdc6b2e29b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/582610bf254a7c9bcb1370cdc6b2e29b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/5ed2f4013ad54461567b5fbd93721ea8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/5ed2f4013ad54461567b5fbd93721ea8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/335be2c8b85cc1be332798a6712717a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/335be2c8b85cc1be332798a6712717a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e5b77bf1b5f2d14f5bdd73d3da14e36b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/e5b77bf1b5f2d14f5bdd73d3da14e36b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/48d2bfd56059f8bfc353879d1dd8ada4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/48d2bfd56059f8bfc353879d1dd8ada4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/876b2c3baed3c6f67201d8bbb60285e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/876b2c3baed3c6f67201d8bbb60285e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20b5228e159dd3d06025eecb29df9c55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/20b5228e159dd3d06025eecb29df9c55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/f242675ebc2f970543f482723a8ea261/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/97482a7ecaa2bf34ce3d5a6b56ac352c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/97482a7ecaa2bf34ce3d5a6b56ac352c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a2814f7b9301903a272ce1bdeac0993b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/a2814f7b9301903a272ce1bdeac0993b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/73e8ce2ac34627c6ae0c66d95693fb21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/73e8ce2ac34627c6ae0c66d95693fb21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/bc655a345fb5c0200042a180e3be9a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/bc655a345fb5c0200042a180e3be9a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/116bc84c244e2701048a73a2f071bf06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/116bc84c244e2701048a73a2f071bf06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/598593126d30fb3dbb1b03547dc58100/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/598593126d30fb3dbb1b03547dc58100/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/57b8ec3eda431071e2c7440d8dd5e38d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/57b8ec3eda431071e2c7440d8dd5e38d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/0abb1da8515b613395e9265bd55aed5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/0abb1da8515b613395e9265bd55aed5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/344608b2faf0fb537ff30dd2d62b7508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/344608b2faf0fb537ff30dd2d62b7508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/47b3bb8727f5fdb262ee6f7bb8c7c524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/47b3bb8727f5fdb262ee6f7bb8c7c524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/fc21ff7d066770046fac7084b1dc5be5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/fc21ff7d066770046fac7084b1dc5be5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/07416ed7f043336844756ee94673b7b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dante-mesquita/.gradle/caches/transforms-2/files-2.1/07416ed7f043336844756ee94673b7b1/AndroidManifest.xml:20:5-44
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		ADDED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Thu Jun 27 03:23:22 BRT 2019
+base.0=/home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

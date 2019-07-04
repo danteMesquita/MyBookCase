@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mybookcase.MainActivity">
+    <item
+        android:id="@+id/paraLer"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_para_ler"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/lendo"
+        android:orderInCategory="102"
+        android:title="@string/action_settings_lendo" />
+    <item
+        android:id="@+id/jaLidos"
+        android:orderInCategory="103"
+        android:title="@string/action_settings_ja_lido" />
+    <item
+        android:id="@+id/verTodoslivros"
+        android:orderInCategory="104"
+        android:title="@string/action_settings_ver_todos" />
+    <item
+        android:id="@+id/sair"
+        android:orderInCategory="105"
+        android:title="@string/sair" />
+</menu>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp">
+
+    <ImageView
+        android:id="@+id/bookImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        tools:srcCompat="@drawable/icon" />
+
+    <TextView
+        android:id="@+id/textViewTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        android:gravity="center"
+        android:padding="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:paddingBottom="0dp"
+        android:text="Harry Potter - A Ordem da Fênix"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Status: Lendo" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50" />
+
+    <TextView
+        android:id="@+id/textViewGenero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gênero: Fantasia e Aventura" />
+
+    <TextView
+        android:id="@+id/textViewNumeroPaginas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Número Páginas: 474" />
+
+    <TextView
+        android:id="@+id/textViewPaginaAtual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Página Atual: 300" />
+
+    <TextView
+        android:id="@+id/textViewPreco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Preço: R$45,00" />
+
+</LinearLayout>

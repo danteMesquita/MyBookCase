@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_anchorGravity="center"
+    tools:context=".RegisterBookActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <EditText
+        android:id="@+id/inputTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:ems="10"
+        android:hint="@string/inputTitulo"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/inputGenero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="25dp"
+        android:ems="10"
+        android:hint="@string/inputGenero"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/inputTotalPaginas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:ems="10"
+        android:hint="@string/inputTotalPaginas"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/inputValor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:ems="10"
+        android:hint="@string/inputValor"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/textViewComboBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:text="@string/textViewComboBox" />
+
+    <Spinner
+        android:id="@+id/comboBoxLista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:entries="@array/comboBoxOption1"
+        android:spinnerMode="dropdown" />
+
+    <EditText
+        android:id="@+id/inputNumeroUltimaPaginaLida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:ems="10"
+        android:hint="@string/inputNumeroUltimaPaginaLida"
+        android:inputType="number"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/btnSalvar"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="@string/btnSalvar"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/btnEditar"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="Salvar Edição"
+        android:textSize="18dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btnRemover"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Remover"
+        android:textSize="18dp"
+        android:visibility="gone"
+        app:backgroundTint="@color/danger" />
+
+</LinearLayout>

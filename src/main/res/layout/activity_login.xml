@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:foregroundGravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    app:layout_anchorGravity="center">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/launcher" />
+
+    <EditText
+        android:id="@+id/inputEmail"
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="username"
+        android:ems="10"
+        android:hint="@string/login_input_username"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/inputPassword"
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="password"
+        android:ems="10"
+        android:hint="@string/login_input_password"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textViewRegistrar"
+        android:layout_width="284dp"
+        android:layout_height="88dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/login_txtView_password" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:autofillHints="enter"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:text="@string/login_btn_password"
+        android:textSize="18dp"
+        android:theme="@style/AppTheme" />
+
+</LinearLayout>

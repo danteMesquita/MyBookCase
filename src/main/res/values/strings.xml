@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyBookCase</string>
+    <string name="action_settings_ja_lido">Ver livros já lidos </string>
+    <string name="action_settings_lendo">Ver livros que estou lendo</string>
+    <string name="action_settings_para_ler">Ver livros para ler</string>
+    <string name="action_settings_ver_todos">Ver todos os livros</string>
+    <string name="login_input_username">Nome de usuário</string>
+    <string name="login_input_password">Senha</string>
+    <string name="login_btn_password">Entrar</string>
+    <string name="login_txtView_password">Não tem uma conta? Clique para registrar</string>
+    <string name="login_error_message">Usuário ou senha incorretos</string>
+    <string name="register_success_message">Usuário criado com sucesso</string>
+    <string name="register_error_message">Senhas não conferem</string>
+    <string name="textViewUserName">Digite o nome de usuário</string>
+    <string name="textViewPassword">Digite a senha</string>
+    <string name="textViewConfirmPassword">Por favor, confirme a senha</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="login_error">Erro ao relizar login</string>
+    <string name="adicionar_livro_header">Adicionar Livro</string>
+    <string name="sair">Sair</string>
+    <string name="inputTitulo">Digite o título do livro</string>
+    <string name="inputTotalPaginas">Digite o total de páginas do livro</string>
+    <string name="inputNumeroUltimaPaginaLida">Digite o número da última página lida</string>
+    <string name="inputValor">Digite o valor do livro (R$)</string>
+    <string name="inputGenero">Digite o gênero</string>
+    <string name="comboBoxLista">Selecione a lista</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="textViewComboBox">Selecione a lista:</string>
+    <string name="register_book_success_message">Livro criado com sucesso</string>
+    <string name="edit_book_success_message">Livro editado com sucesso</string>
+    <string name="delete_book_success_message">Livro excluído com sucesso</string>
+
+
+
+
+    <string name="campoTituloNaoPreenchido">Campo título não foi preenchido</string>
+    <string name="campoGeneroNaoPreenchido">Campo gênero não foi preenchido</string>
+    <string name="campoValorNaoPreenchido">Campo valor não foi preenchido</string>
+    <string name="campoTotalPaginasNaoPreenchido">Campo total de páginas não foi preenchido</string>
+    <string name="campoUltimaPaginaNaoPreenchido">Campo título não foi preenchido</string>
+    <string name="alert_username_empty">Campo usuário não foi preenchido</string>
+    <string name="alert_password_empty">Campo senha não foi preenchido</string>
+    <string name="alert_comfirm_password_empty">Campo confirmação da senha não foi preenchido</string>
+
+
+
+</resources>

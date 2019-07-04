@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jun 27 03:43:32 BRT 2019
+0.baseType=DIRECTORY
+0.base=/home/dante-mesquita/AndroidStudioProjects/MyBookCase2/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
